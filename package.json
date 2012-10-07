@@ -1,5 +1,5 @@
 {
-  "name": "application-name",
+  "name": "shopfront",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "jade": "*"
   },
   "engines": {
-    "node": "0.6.20",
-    "npm": "1.1.32"
+    "node": "0.6.18",
+    "npm": "1.1.x"
   }
 }
