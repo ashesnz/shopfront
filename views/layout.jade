@@ -2,9 +2,27 @@ doctype 5
 html
   head
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/stylesheets/bootstrap.css')
+    link(rel='stylesheet', href='/stylesheets/bootstrap-responsive.css')
   body
+    .navbar.navbar-inverse.navbar-fixed-top
+      .navbar-inner
+        .container-fluid
+          a.btn.btn-navbar
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.brand(href='#') Project X
+          .nav-collapse.collapse
+            ul.nav
+              li.active
+                a Home
+              li 
+                a What is Project X?
+              li 
+                a How do I get Project X?
     block content
   script(src='http://code.jquery.com/jquery.min.js')
   script(src='http://http://code.jquery.com/ui/1.8.24/jquery-ui.min.js')
+  script(src='/javascripts/bootstrap.js')
   block scripts
