@@ -4,3 +4,4 @@
 {"ts":1349620051426,"patch":[[{"diffs":[[0," \"1.1.32"],[-1,"\n    "],[0,"\"\n  }\n}"]],"start1":232,"start2":232,"length1":20,"length2":15}]],"length":247,"saved":false}
 {"ts":1349620164163,"patch":[[{"diffs":[[0,"0.6."],[-1,"20"],[1,"18"],[0,"\",\n "]],"start1":213,"start2":213,"length1":10,"length2":10},{"diffs":[[0,"1.1."],[-1,"32"],[1,"x"],[0,"\"\n  "]],"start1":234,"start2":234,"length1":10,"length2":9}]],"length":246,"saved":false}
 {"ts":1349620184127,"patch":[[{"diffs":[[0,"\": \""],[-1,"application-name"],[1,"shopfront"],[0,"\",\n "]],"start1":9,"start2":9,"length1":24,"length2":17}]],"length":239,"saved":false}
+{"ts":1349620292128,"patch":[[{"diffs":[[0,"0.6."],[-1,"18"],[1,"20"],[0,"\",\n "]],"start1":206,"start2":206,"length1":10,"length2":10}]],"length":239,"saved":false}
