@@ -1,5 +1,2 @@
 {"ts":1349611109053,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"extends layout\n\nblock content\n  h1= title\n  p Welcome to #{title}"]],"start1":0,"start2":0,"length1":0,"length2":65}]],"length":65}
 {"contributors":[],"silentsave":false,"ts":1349611118680,"patch":[[{"diffs":[[0,"t\n  "],[-1,"h1= title\n  p Welcome to #{title}"]],"start1":28,"start2":28,"length1":37,"length2":4}]],"length":32,"saved":false}
-{"contributors":[],"silentsave":true,"ts":1349782030102,"patch":[[{"diffs":[[0,"ntent\n  "],[1,"\n  "]],"start1":24,"start2":24,"length1":8,"length2":11}]],"length":35,"saved":false}
-{"ts":1349782034470,"patch":[[{"diffs":[[0,"ntent\n  "],[1,"p not so trivial "],[0,"\n  "]],"start1":24,"start2":24,"length1":11,"length2":28}]],"length":52,"saved":false}
-{"ts":1349782035435,"patch":[[{"diffs":[[0,"trivial "],[1,"change"],[0,"\n  "]],"start1":41,"start2":41,"length1":11,"length2":17}]],"length":58,"saved":false}
