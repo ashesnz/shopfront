@@ -5,7 +5,7 @@ var http = require('http')
 var path = require('path');
 
 var app = express();
-
+//trivial change
 app.configure(function(){
   app.set('port', process.env.PORT || 3000);
   app.set('views', __dirname + '/views');
